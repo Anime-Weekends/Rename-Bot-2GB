@@ -45,11 +45,12 @@ class Txt(object):
 ╭───────────────⍟
 ├<b>My Name</b> : {}
 ├<b>Developer</b> : <a href=https://t.me/JeffySama>Dᴇᴠᴇʟᴏᴘᴇʀ</a> 
+├<b>Main Channel</b> : <a href=https://t.me/JeffySama>Dᴇᴠᴇʟᴏᴘᴇʀ</a>
 ├<b>Main Channel</b> : <a href=https://t.me/Anime_Weekends>Aɴɪᴍᴇ Wᴇᴇᴋᴇɴᴅs</a>
-├<b>Support Channel</b> : <a href=>Pyrogram</a>
-├<b>Bot Updates</b> : <a href=https://www.python.org>Python 3</a>
-├<b>Network</b> : <a href=https://cloud.mongodb.com>Mongo DB</a>
-├<b></b> : <a href=https://instagram.com/jishu.editz>Rename v4.5.0</a></b>     
+├<b>Support Channel</b> : <a href=https://t.me/Weebs_Weekends>Pyrogram</a>
+├<b>Bot Updates</b> : <a href=https://t.me/EmitingStars_Botz>Python 3</a>
+├<b>Network</b> : <a href=https://t.me/Eminence_Society>Mongo DB</a>
+├<b>Pookie</b> : <a href=https://t.me/JeffySama>Rename v4.5.0</a></b>     
 ╰───────────────⍟
 """
 
