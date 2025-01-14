@@ -43,13 +43,13 @@ class Txt(object):
 
     ABOUT_TXT = """
 ╭───────────────⍟
-├<b>🤖 My Name</b> : {}
-├<b>🖥️ Developer</b> : <a href=https://t.me/JeffySama></a> 
-├<b>👨‍💻 Programer</b> : <a href=https://t.me/MadflixOfficials>Jishu Developer</a>
-├<b>📕 Library</b> : <a href=https://github.com/pyrogram>Pyrogram</a>
-├<b>✏️ Language</b> : <a href=https://www.python.org>Python 3</a>
-├<b>💾 Database</b> : <a href=https://cloud.mongodb.com>Mongo DB</a>
-├<b>📊 Build Version</b> : <a href=https://instagram.com/jishu.editz>Rename v4.5.0</a></b>     
+├<b>My Name</b> : {}
+├<b>Developer</b> : <a href=https://t.me/JeffySama>Dᴇᴠᴇʟᴏᴘᴇʀ</a> 
+├<b>Main Channel</b> : <a href=https://t.me/Anime_Weekends>Aɴɪᴍᴇ Wᴇᴇᴋᴇɴᴅs</a>
+├<b>Support Channel</b> : <a href=>Pyrogram</a>
+├<b>Bot Updates</b> : <a href=https://www.python.org>Python 3</a>
+├<b>Network</b> : <a href=https://cloud.mongodb.com>Mongo DB</a>
+├<b></b> : <a href=https://instagram.com/jishu.editz>Rename v4.5.0</a></b>     
 ╰───────────────⍟
 """
 
