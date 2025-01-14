@@ -23,7 +23,7 @@ async def not_subscribed(_, client, message):
 
 @Client.on_message(filters.private & filters.create(not_subscribed))
 async def forces_sub(client, message):
-    buttons = [[InlineKeyboardButton(text="📢 Join Update Channel 📢", url=f"https://t.me/{Config.FORCE_SUB}") ]]
+    buttons = [[InlineKeyboardButton(text="Join Update Channel", url=f"https://t.me/{Config.FORCE_SUB}") ]]
     text = f"""<b>Hello {message.from_user.mention} \n\nYou Need To Join In My Channel To Use Me\n\nKindly Please Join Channel</b>"""
     try:
         user = await client.get_chat_member(Config.FORCE_SUB, message.from_user.id)    
