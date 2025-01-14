@@ -43,9 +43,9 @@ async def cb_handler(client, query: CallbackQuery):
             text=Txt.HELP_TXT,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup([
-                [InlineKeyboardButton("⚡ 4GB Rename Bot", url="https://t.me/FileRenameXProBot")],
-                [InlineKeyboardButton("🔒 Close", callback_data = "close"),
-                InlineKeyboardButton("◀️ Back", callback_data = "start")]
+                [InlineKeyboardButton("Dᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/JeffySama")],
+                [InlineKeyboardButton("Cʟᴏsᴇ", callback_data = "close"),
+                InlineKeyboardButton("Bᴀᴄᴋ", callback_data = "start")]
             ])            
         )
     elif data == "about":
@@ -54,8 +54,8 @@ async def cb_handler(client, query: CallbackQuery):
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup([
                 [InlineKeyboardButton("Mᴏʀᴇ Bᴏᴛᴢ", url="https://t.me/EmitingStars_Botz")],
-                [InlineKeyboardButton("🔒 Cʟᴏꜱᴇ", callback_data = "close"),
-                InlineKeyboardButton("◀️ Bᴀᴄᴋ", callback_data = "start")]
+                [InlineKeyboardButton("Cʟᴏsᴇ", callback_data = "close"),
+                InlineKeyboardButton("Bᴀᴄᴋ", callback_data = "start")]
             ])            
         )
     elif data == "close":
@@ -71,12 +71,12 @@ async def cb_handler(client, query: CallbackQuery):
 
 
 
-@Client.on_message(filters.private & filters.command(["donate", "d"]))
+@Client.on_message(filters.private & filters.command(["Dᴏɴᴀᴛᴇ", "d"]))
 async def donate(client, message):
 	text = Txt.DONATE_TXT
 	keybord = InlineKeyboardMarkup([
-        			[InlineKeyboardButton("🦋 Admin",url = "https://t.me/CallAdminRobot"), 
-        			InlineKeyboardButton("✖️ Close",callback_data = "close") ]])
+        			[InlineKeyboardButton("Aᴅᴍɪɴ",url = "https://t.me/CallAdminRobot"), 
+        			InlineKeyboardButton("Cʟᴏsᴇ",callback_data = "close") ]])
 	await message.reply_text(text = text,reply_markup = keybord)
 
 
