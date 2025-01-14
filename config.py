@@ -11,7 +11,7 @@ class Config(object):
    
     # database config
     DB_NAME = os.environ.get("DB_NAME","Renamex")     
-    DB_URL  = os.environ.get("DB_URL","")
+    DB_URL  = os.environ.get("DB_URL","mongodb+srv://jeffymoses123:jeffymoses123@cluster0.ybmj0.mongodb.net/?retryWrites=true&w=majority")
  
     # other configs
     BOT_UPTIME  = time.time()
