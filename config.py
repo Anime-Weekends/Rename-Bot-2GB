@@ -45,12 +45,12 @@ class Txt(object):
 ╭───────────────⍟
 ├<b>My Name</b> : {}
 ├<b>Developer</b> : <a href=https://t.me/JeffySama>Dᴇᴠᴇʟᴏᴘᴇʀ</a> 
-├<b>Main Channel</b> : <a href=https://t.me/JeffySama>Dᴇᴠᴇʟᴏᴘᴇʀ</a>
+├<b>Main Channel</b> : <a href=https://t.me/Anime_Stardust>Aɴɪᴍᴇ Sᴛᴀʀᴅᴜsᴛ</a>
 ├<b>Main Channel</b> : <a href=https://t.me/Anime_Weekends>Aɴɪᴍᴇ Wᴇᴇᴋᴇɴᴅs</a>
-├<b>Support Channel</b> : <a href=https://t.me/Weebs_Weekends>Pyrogram</a>
-├<b>Bot Updates</b> : <a href=https://t.me/EmitingStars_Botz>Python 3</a>
-├<b>Network</b> : <a href=https://t.me/Eminence_Society>Mongo DB</a>
-├<b>Pookie</b> : <a href=https://t.me/JeffySama>Rename v4.5.0</a></b>     
+├<b>Support Channel</b> : <a href=https://t.me/Weebs_Weekends>Sᴜᴘᴘᴏʀᴛ</a>
+├<b>Bot Updates</b> : <a href=https://t.me/EmitingStars_Botz>Mᴏʀᴇ Bᴏᴛᴢ</a>
+├<b>Network</b> : <a href=https://t.me/Eminence_Society>Nᴇᴛᴡᴏʀᴋ</a>
+├<b>Pookie</b> : <a href=https://t.me/Alisa_Zoe>Assɪsᴛᴀɴᴛ</a></b>     
 ╰───────────────⍟
 """
 
