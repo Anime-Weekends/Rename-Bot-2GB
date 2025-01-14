@@ -31,11 +31,11 @@ async def cb_handler(client, query: CallbackQuery):
             text=Txt.START_TXT.format(query.from_user.mention),
             disable_web_page_preview=True,
             reply_markup = InlineKeyboardMarkup([
-                [InlineKeyboardButton('🔊 Updates', url='https://t.me/Madflix_Bots'),
-                InlineKeyboardButton('♻️ Sᴜᴩᴩᴏʀᴛ', url='https://t.me/MadflixBots_Support')],
-                [InlineKeyboardButton('❤️‍🩹 About', callback_data='about'),
-                InlineKeyboardButton('🛠️ Help', callback_data='help')],
-                [InlineKeyboardButton("👨‍💻 Developer", url='https://t.me/CallAdminRobot')]
+                [InlineKeyboardButton('Uᴘᴅᴀᴛᴇs', url='https://t.me/EmitingStars_Botz'),
+                InlineKeyboardButton('Sᴜᴩᴩᴏʀᴛ', url='https://t.me/Weebs_Weekends')],
+                [InlineKeyboardButton('Aʙᴏᴜᴛ', callback_data='about'),
+                InlineKeyboardButton('Hᴇʟᴘ', callback_data='help')],
+                [InlineKeyboardButton("Dᴇᴠᴇʟᴏᴘᴇʀ", url='https://t.me/JeffySama')]
             ])
         )
     elif data == "help":
@@ -53,7 +53,7 @@ async def cb_handler(client, query: CallbackQuery):
             text=Txt.ABOUT_TXT.format(client.mention),
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup([
-                [InlineKeyboardButton("🤖 More Bots", url="https://t.me/Madflix_Bots/7")],
+                [InlineKeyboardButton("Mᴏʀᴇ Bᴏᴛᴢ", url="https://t.me/EmitingStars_Botz")],
                 [InlineKeyboardButton("🔒 Cʟᴏꜱᴇ", callback_data = "close"),
                 InlineKeyboardButton("◀️ Bᴀᴄᴋ", callback_data = "start")]
             ])            
